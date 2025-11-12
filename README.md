@@ -9,13 +9,10 @@ The codebase is organized into the following directories:
 ### `clinick-backend/`
 - **Purpose**: Backend API server built with Flask.
 - **Technologies**: Python, Flask.
-- **Status**: Currently empty. This directory will contain the Flask application, including routes for patient management, appointments, authentication, and database interactions.
 - **Setup**: (To be added once implemented) Install dependencies with `pip install -r requirements.txt` and run with `python app.py`.
 
 ### `sample-client/`
 - **Purpose**: Placeholder for an additional client application (e.g., mobile app or another web client).
-- **Technologies**: To be determined.
-- **Status**: Currently empty. This may include a separate frontend or client-side application in the future.
 
 ### `sample-client-frontend/`
 - **Purpose**: Frontend web application built with React and Vite.
@@ -47,6 +44,4 @@ The codebase is organized into the following directories:
 - Use TypeScript for type safety in the frontend.
 - Run `npm run lint` in the frontend to check code quality.
 
-## License
 
-(To be added)
